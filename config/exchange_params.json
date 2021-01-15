@@ -1,0 +1,21 @@
+{
+  "comment": "Please don't change this file and copy it as params.json. There you can enter your values. But please keep it locally and in .gitignore and never commit it to avoid compromising your private keys",
+  "bybit": {
+    "apikey": "Rh3z79ELRqfZtJhU8v",
+    "secret": "thUp2Y5cncsLB3OJ43t0H71JXuCY9CE5goAs",
+    "testorders": true,
+    "verbose": false,
+    "options": {
+      "adjustForTimeDifference": true,
+      "fetchBalance": {
+        "code": "BTC"
+      },
+      "marketType": "linear"
+    }
+  },
+  "binance": {
+    "apikey": "DbDorRYi7kwvFdeKVia3r9MiewYf6Z6K8fBGCjqctJku46EaSpyo6u5eRK1iiFYG",
+    "secret": "x8Ucx3J5Y7GK1CscT5uIa1bKb4EQjbPprmt8K3LjMNvy8lbQh78ZzdLEkaDfwIt4",
+    "testorders": true
+  }
+}
